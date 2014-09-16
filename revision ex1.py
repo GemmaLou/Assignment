@@ -1,0 +1,5 @@
+int1=int(input("Please enter an integer: "))
+int2=int(input("Please enter a second number: "))
+int3=int(input("Please enter a third integer: "))
+int4=int(input("Please enter a fourth integer: "))
+print(int1+int2+int3+int4)
